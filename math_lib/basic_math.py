@@ -5,7 +5,8 @@ def math_add(a, b):
     :param b:
     :return:
     """
-
+    
+    # Somehting
     return a + b
 
 
@@ -17,4 +18,4 @@ def math_multi(a, b):
     :return:
     """
 
-    return a * b
+    return a * b # Something else
